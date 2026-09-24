@@ -1,8 +1,8 @@
-# Nhật ký tuần NN · dd/mm – dd/mm/yyyy
+# Nhật ký tuần NN · 14/09/2026
 
 <!-- Copy file này thành tuan-NN.md mỗi đầu tuần. -->
 
-**Lead tuần này:** Nguyễn Hùng Mạnh (2A202602062) — phần Face_Landmark · () lead phần HumanPose17
+**Lead tuần này:** Nguyễn Hùng Mạnh (2A202602062) — phần Face_Landmark · Nguyễn Tuấn Khôi (2A202602241)  lead phần HumanPose17
 **Dữ liệu / task CVAT:**
 
 ## Thành viên và phân công
